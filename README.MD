@@ -1,5 +1,5 @@
 # Higher or Lower Game
-§[Higher Lower Game](starter.png)
+![Higher Lower Game](starter.png)
 This project is a Python-based CLI game inspired by the "Higher or Lower" concept. Players are presented with two popular individuals or entities and must guess which one has more social media followers.
 
 ## Features
